@@ -1,0 +1,303 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Laptop,Central,15000.0,-316.98,0.4,Furniture,2023-08-13
+Table,East,1342.74,-2000.0,0.33,Furniture,2023-02-09
+Laptop,West,773.05,220.01,0.05,Office Supplies,2023-08-18
+Notebook,Central,1098.46,-82.01,0.3,Furniture,2023-11-01
+Notebook,West,1015.11,-411.16,0.27,Office Supplies,2023-02-11
+Table,West,436.09,183.75,0.45,Furniture,2023-02-27
+Monitor,East,835.45,45.11,0.2,Technology,2023-10-19
+Table,Central,1931.26,480.52,0.16,Furniture,2023-07-09
+Pen,East,572.3,-272.59,0.37,Furniture,2023-10-17
+Notebook,East,354.23,-96.02,0.21,Office Supplies,2023-12-28
+Chair,Central,895.3,42.55,0.32,Office Supplies,2023-04-09
+Chair,Central,1601.64,291.7,0.32,Furniture,2023-05-30
+Monitor,South,1206.08,48.84,0.44,Technology,2023-02-05
+Pen,South,1393.85,112.9,0.3,Furniture,2023-03-17
+Laptop,West,460.42,-273.85,0.25,Furniture,2023-12-22
+Pen,Central,1276.0,346.92,0.07,Technology,2023-09-16
+Chair,South,714.65,-71.37,0.06,Office Supplies,2023-12-20
+Chair,West,1685.18,-359.04,0.08,Furniture,2023-05-25
+Notebook,West,1295.67,164.19,0.09,Office Supplies,2023-08-26
+Pen,West,477.83,-283.91,0.32,Office Supplies,2023-12-10
+Pen,South,222.77,-402.44,0.37,Technology,2023-04-29
+Chair,Central,181.0,361.99,0.26,Technology,2023-03-02
+Laptop,East,805.68,-39.84,0.41,Office Supplies,2023-05-19
+Monitor,West,605.12,249.28,0.5,Furniture,2023-09-22
+Monitor,South,1327.57,-209.41,0.41,Office Supplies,2023-09-11
+Pen,South,1048.73,286.97,0.35,Furniture,2023-02-28
+Monitor,East,605.44,-388.06,0.27,Furniture,2023-03-13
+Chair,East,383.55,-144.03,0.22,Technology,2023-05-30
+Chair,South,341.68,478.06,0.04,Furniture,2023-11-21
+Pen,Central,1742.85,293.99,0.2,Furniture,2023-02-15
+Pen,East,562.61,-2.74,0.46,Office Supplies,2023-11-05
+Notebook,South,1338.25,-160.22,0.4,Technology,2023-10-15
+Pen,East,1640.3,372.14,0.11,Furniture,2023-03-26
+Laptop,Central,1266.75,44.85,0.23,Furniture,2023-11-21
+Monitor,West,1733.17,258.43,0.41,Technology,2023-04-19
+Pen,East,845.55,254.11,0.03,Office Supplies,2023-02-19
+Table,Central,1916.82,-482.05,0.19,Technology,2023-06-18
+Notebook,South,352.98,-373.75,0.43,Technology,2023-10-27
+Table,East,294.08,159.63,0.2,Furniture,2023-04-13
+Chair,East,1351.52,-338.38,0.04,Furniture,2023-08-02
+Monitor,South,1891.38,-244.51,0.27,Office Supplies,2023-11-03
+Pen,West,1636.88,446.64,0.43,Furniture,2023-12-09
+Table,South,245.19,60.18,0.3,Furniture,2023-07-08
+Monitor,East,630.8,250.73,0.11,Technology,2023-02-10
+Chair,South,1867.61,57.98,,Furniture,2023-11-13
+Laptop,Central,580.81,52.51,0.23,Office Supplies,2023-04-07
+Notebook,South,1584.22,-405.85,0.29,Technology,2023-06-24
+Monitor,East,1667.75,-156.34,0.38,Office Supplies,2023-06-12
+Monitor,South,1041.36,-217.57,0.05,Technology,2023-09-21
+Laptop,West,834.06,-109.27,0.44,Furniture,2023-01-25
+Monitor,South,955.24,298.34,0.01,Technology,2023-11-23
+Chair,West,531.23,-128.07,0.19,Technology,2023-05-16
+Chair,Central,1789.84,-48.3,0.01,Furniture,2023-02-20
+Laptop,West,956.18,-102.62,0.2,Furniture,2023-11-03
+Notebook,South,1776.67,-406.59,0.26,Office Supplies,2023-05-31
+Pen,East,300.82,-58.93,0.26,Office Supplies,2023-02-08
+Table,West,1977.72,-304.39,0.08,Furniture,2023-08-23
+Pen,Central,942.22,-313.28,0.32,Furniture,2023-07-17
+Monitor,West,190.88,-405.96,0.02,Furniture,2023-06-24
+Table,West,172.24,-143.33,0.38,Technology,2023-08-05
+Laptop,West,1517.79,257.48,0.47,Technology,2023-08-22
+Laptop,Central,1352.17,-223.56,0.17,Technology,2024-01-01
+Notebook,South,1624.05,-187.65,0.26,Furniture,2023-05-08
+Table,West,300.2,142.67,0.19,Office Supplies,2023-03-28
+Chair,West,167.58,-304.16,0.0,Furniture,2023-07-15
+Table,East,1066.3,396.96,,Technology,2023-12-19
+Monitor,Central,836.43,20.19,0.4,Technology,2023-09-28
+Chair,West,977.7,-52.4,0.3,Furniture,2023-10-18
+Laptop,Central,1984.02,57.82,0.05,Furniture,2023-10-09
+Table,West,1944.42,-333.97,0.42,Technology,2023-04-21
+Pen,South,1890.4,113.47,0.27,Technology,2023-08-24
+Notebook,South,1589.3,-136.9,0.42,Technology,2023-02-20
+Pen,West,774.2,397.19,0.29,Furniture,2023-01-27
+Notebook,South,883.05,-331.15,0.28,Technology,2023-03-18
+Monitor,West,1144.27,7.05,0.05,Technology,2023-02-22
+Pen,South,1678.02,98.11,0.08,Office Supplies,2023-08-01
+Table,East,230.55,-466.62,0.49,Furniture,2023-10-11
+Table,East,906.16,-136.31,0.11,Office Supplies,2023-06-29
+Pen,East,256.97,232.64,0.49,Office Supplies,2023-01-17
+Table,Central,1077.85,320.38,0.27,Technology,2023-07-20
+Monitor,Central,1807.91,-186.84,0.07,Furniture,2023-11-07
+Chair,East,1586.72,298.59,0.05,Technology,2023-07-21
+Monitor,Central,532.9,467.76,0.1,Furniture,2023-07-16
+Notebook,South,1954.38,356.87,0.46,Office Supplies,2023-06-16
+Monitor,West,1367.97,-382.36,0.21,Furniture,2023-02-11
+Notebook,West,119.81,239.73,0.2,Technology,2023-11-03
+Table,West,585.29,-180.33,0.16,Technology,2023-12-12
+Chair,East,595.36,488.42,0.07,Technology,2023-11-19
+Table,Central,231.58,-14.64,0.24,Furniture,2023-11-23
+Laptop,South,1923.67,-377.57,0.07,Office Supplies,2023-06-28
+Table,South,1008.69,225.19,0.42,Office Supplies,2023-05-27
+Notebook,East,1802.05,-176.99,0.19,Furniture,2023-03-02
+Table,South,712.21,497.08,0.19,Technology,2023-04-01
+Table,South,337.94,479.78,0.24,Office Supplies,2023-05-08
+Chair,South,1001.24,156.13,0.22,Technology,2023-09-05
+Table,South,316.52,-370.17,0.5,Furniture,2023-05-08
+Chair,Central,1023.43,186.86,0.27,Technology,2023-08-04
+Pen,South,1848.56,-406.97,0.04,Office Supplies,2023-07-06
+Laptop,West,1089.46,-470.64,0.3,Office Supplies,2023-03-01
+Chair,East,1271.35,322.96,0.08,Technology,2023-05-12
+Notebook,Central,397.61,-290.25,0.02,Furniture,2023-11-03
+Pen,South,183.1,-120.97,0.49,Technology,2023-08-02
+Chair,Central,310.54,473.46,0.39,Furniture,2023-10-29
+Chair,South,1237.21,-163.16,0.49,Technology,2023-06-15
+Laptop,West,280.52,-203.51,0.24,Office Supplies,2023-03-05
+Notebook,East,814.39,418.21,0.27,Furniture,2023-01-05
+Monitor,South,1145.17,-389.25,0.08,Furniture,2023-04-02
+Monitor,South,838.44,259.58,0.12,Furniture,2023-01-07
+Chair,South,411.0,488.07,0.42,Office Supplies,2023-08-09
+Table,South,620.2,401.3,0.18,Technology,2023-05-01
+Notebook,East,1863.8,151.67,0.41,Office Supplies,2023-01-13
+Pen,East,1384.37,-185.94,0.35,Furniture,2023-04-18
+Table,West,1042.49,-245.68,0.09,Technology,2023-11-25
+Table,East,124.16,319.26,0.25,Office Supplies,2023-02-22
+Notebook,South,1985.59,379.82,0.34,Furniture,2023-02-26
+Chair,West,1375.76,25.43,0.12,Furniture,2023-07-28
+Chair,West,702.15,-255.66,0.42,Office Supplies,2023-01-31
+Chair,West,1770.61,-387.06,0.27,Office Supplies,2023-10-14
+Chair,South,591.02,-412.82,0.08,Office Supplies,2023-01-29
+Monitor,Central,1133.63,219.08,0.29,Furniture,2023-11-25
+Chair,South,1308.53,-79.88,0.5,Office Supplies,2023-06-04
+Monitor,East,520.02,405.36,0.08,Furniture,2023-05-17
+Monitor,East,1958.95,239.67,0.41,Office Supplies,2023-03-27
+Chair,South,1521.56,-308.74,0.1,Furniture,2023-01-17
+Laptop,South,1159.85,113.78,0.39,Furniture,2023-09-13
+Pen,West,443.13,-64.49,0.37,Technology,2023-12-09
+Table,South,202.33,77.25,0.15,Office Supplies,2023-08-17
+Monitor,West,708.11,238.07,0.16,Office Supplies,2023-07-06
+Notebook,East,1531.06,306.2,0.4,Furniture,2023-03-12
+Notebook,West,611.73,343.74,0.23,Furniture,2023-01-21
+Pen,South,1125.16,-246.03,0.37,Furniture,2023-06-06
+Notebook,East,1483.1,-468.88,0.07,Technology,2023-05-08
+Laptop,Central,305.09,239.29,0.43,Technology,2023-07-16
+Notebook,West,1402.07,-393.66,0.36,Furniture,2023-07-22
+Table,East,274.55,-185.08,0.45,Office Supplies,2023-12-06
+Table,West,1933.75,-496.18,0.07,Office Supplies,2023-03-02
+Monitor,East,1027.95,181.67,,Technology,2023-04-08
+Chair,East,386.28,-332.87,0.3,Technology,2023-08-01
+Laptop,West,750.53,155.28,0.18,Furniture,2023-04-19
+Monitor,Central,885.49,491.74,,Office Supplies,2023-05-05
+Laptop,East,1540.55,-427.33,0.02,Furniture,2023-02-26
+Chair,East,1512.51,-422.92,0.37,Technology,2023-04-23
+Notebook,East,1262.69,-159.62,0.27,Office Supplies,2023-11-06
+Notebook,Central,301.27,366.39,0.03,Office Supplies,2023-05-08
+Chair,Central,387.98,-284.47,0.34,Technology,2023-09-24
+Monitor,South,278.14,-139.62,0.23,Furniture,2023-04-20
+Chair,West,1196.63,-431.49,0.02,Furniture,2023-06-12
+Pen,Central,1766.56,263.16,0.48,Office Supplies,2023-05-18
+Table,West,924.22,-91.69,0.47,Technology,2023-06-19
+Monitor,South,405.61,259.25,0.26,Office Supplies,2023-02-06
+Laptop,West,1160.28,403.61,0.05,Technology,2023-05-29
+Pen,Central,1642.33,-267.24,0.38,Furniture,2023-06-29
+Monitor,West,1509.25,307.4,0.25,Technology,2023-03-29
+Chair,Central,1774.76,-440.91,0.15,Furniture,2023-05-19
+Chair,West,628.01,398.85,0.25,Technology,2023-12-17
+Chair,Central,468.51,150.77,0.26,Office Supplies,2023-05-29
+Chair,Central,1771.65,374.23,0.28,Furniture,2023-12-01
+Laptop,West,1349.36,-499.81,0.22,Office Supplies,2023-09-25
+Pen,South,690.76,-330.92,0.3,Office Supplies,2023-11-03
+Notebook,East,1510.46,-110.24,,Furniture,2023-08-22
+Table,South,1648.72,-120.5,0.18,Furniture,2023-06-17
+Laptop,West,1268.46,-273.27,0.36,Office Supplies,2023-07-27
+Laptop,South,1406.98,-118.39,0.45,Office Supplies,2023-01-05
+Notebook,Central,812.99,-371.15,0.23,Office Supplies,2023-08-10
+Notebook,East,1123.52,-87.24,0.22,Office Supplies,2023-05-16
+Table,West,1095.9,302.35,0.3,Furniture,2023-07-10
+Table,West,1711.29,-20.93,0.3,Furniture,2024-01-01
+Notebook,West,1695.93,-482.0,0.4,Office Supplies,2023-07-22
+Chair,East,1682.09,-78.56,0.24,Technology,2023-12-09
+Laptop,Central,120.96,-472.82,0.5,Technology,2023-01-24
+Monitor,West,1524.14,466.24,0.03,Furniture,2023-04-28
+Table,South,1541.49,-372.55,0.0,Office Supplies,2023-09-24
+Table,West,1388.92,207.69,0.32,Office Supplies,2023-11-14
+Notebook,West,1536.9,472.78,0.15,Furniture,2023-04-24
+Pen,West,1699.74,326.04,0.12,Technology,2023-06-06
+Monitor,West,993.61,199.32,0.16,Technology,2023-10-21
+Monitor,Central,1053.9,339.46,0.13,Technology,2023-08-16
+Table,South,336.96,481.8,0.02,Furniture,2023-03-09
+Chair,Central,832.21,121.34,0.49,Technology,2023-05-04
+Pen,South,1322.39,59.18,0.11,Furniture,2023-04-22
+Monitor,West,1582.76,128.24,0.37,Furniture,2023-08-15
+Table,East,512.7,32.68,0.38,Office Supplies,2023-03-12
+Monitor,Central,361.86,135.09,0.46,Technology,2023-11-23
+Pen,East,1359.78,-50.16,0.02,Furniture,2023-11-08
+Pen,Central,103.57,-281.56,0.44,Technology,2023-04-24
+Laptop,West,438.91,-379.75,0.26,Technology,2023-09-02
+Notebook,Central,155.24,-431.66,0.32,Office Supplies,2023-04-17
+Notebook,West,417.08,-236.68,0.32,Technology,2023-03-12
+Table,Central,444.51,-453.88,0.41,Office Supplies,2023-03-30
+Pen,West,836.58,67.17,0.17,Furniture,2023-11-04
+Laptop,West,864.42,-216.17,0.37,Technology,2023-08-18
+Laptop,South,1761.1,324.53,0.26,Furniture,2023-06-26
+Monitor,West,1069.21,-425.76,0.4,Technology,2023-07-08
+Monitor,South,1474.47,-273.65,0.5,Furniture,2023-05-26
+Laptop,West,297.86,230.25,0.1,Technology,2023-09-02
+Monitor,East,528.33,98.81,0.5,Technology,2023-07-30
+Pen,West,1435.59,-435.51,0.04,Technology,2023-08-04
+Chair,East,200.33,377.24,0.0,Technology,2023-10-14
+Pen,East,1024.54,377.26,0.02,Technology,2023-04-18
+Laptop,West,1238.8,-169.59,0.17,Technology,2023-02-27
+Laptop,East,1244.08,-159.59,0.32,Technology,2023-08-22
+Pen,South,143.57,489.03,0.03,Technology,2023-10-31
+Monitor,Central,712.01,126.18,0.0,Technology,2023-05-23
+Monitor,West,1309.33,31.32,0.47,Furniture,2023-09-09
+Notebook,East,383.1,338.15,0.41,Office Supplies,2023-09-06
+Laptop,West,1421.29,-214.71,0.4,Technology,2023-02-19
+Table,South,1517.26,-70.82,0.44,Office Supplies,2023-12-07
+Notebook,West,1965.74,-232.22,0.35,Technology,2023-01-11
+Monitor,West,498.7,289.16,0.05,Technology,2023-02-19
+Pen,East,1667.75,73.35,0.2,Furniture,2023-10-06
+Monitor,South,1088.56,158.83,0.36,Furniture,2023-07-03
+Pen,Central,809.58,-247.69,0.14,Office Supplies,2023-02-22
+Notebook,Central,332.52,-279.77,0.34,Furniture,2023-08-01
+Laptop,East,1497.46,-11.63,0.01,Furniture,2023-06-22
+Monitor,West,548.13,237.57,0.15,Office Supplies,2023-09-20
+Pen,East,805.7,25.24,0.27,Furniture,2023-08-16
+Laptop,East,218.83,-467.35,0.32,Technology,2023-10-29
+Table,East,1622.6,368.55,0.29,Office Supplies,2023-10-19
+Pen,West,1556.52,-435.31,0.35,Office Supplies,2023-03-10
+Notebook,South,1493.87,455.82,0.0,Technology,2023-06-01
+Table,East,668.94,-474.86,0.05,Furniture,2023-04-10
+Table,West,429.61,194.45,0.43,Office Supplies,2023-10-30
+Chair,South,1311.35,-417.79,0.34,Office Supplies,2023-11-22
+Monitor,East,1042.72,410.68,0.06,Technology,2023-08-04
+Pen,Central,438.68,-35.57,0.42,Technology,2023-04-29
+Table,South,1403.23,-362.48,0.12,Furniture,2024-01-01
+Chair,East,1983.14,-159.18,0.24,Office Supplies,2023-07-05
+Notebook,South,1519.72,-335.18,0.07,Furniture,2023-07-17
+Laptop,South,1505.97,-329.42,0.36,Furniture,2023-12-22
+Pen,South,1905.59,448.11,0.33,Technology,2023-09-18
+Table,South,485.58,-54.75,0.11,Office Supplies,2023-12-31
+Monitor,South,1174.54,288.8,0.43,Office Supplies,2023-09-25
+Chair,South,1961.33,139.61,0.2,Office Supplies,2023-03-21
+Table,East,414.06,176.43,0.15,Technology,2023-09-25
+Monitor,Central,1430.48,-368.31,0.08,Technology,2023-05-21
+Table,West,1213.04,-265.82,0.13,Technology,2023-07-24
+Pen,South,1214.31,286.75,0.01,Technology,2023-05-18
+Pen,West,1425.57,470.77,0.29,Technology,2023-08-18
+Pen,East,1866.27,-237.32,0.42,Office Supplies,2023-06-06
+Notebook,South,1586.91,-228.43,0.27,Furniture,2023-09-12
+Notebook,Central,206.66,-27.1,0.11,Office Supplies,2023-07-24
+Chair,West,1720.18,483.84,0.02,Furniture,2023-09-29
+Pen,South,528.53,-231.04,0.11,Technology,2023-04-07
+Monitor,East,816.14,-93.03,0.21,Furniture,2023-06-17
+Table,Central,977.29,391.48,0.38,Office Supplies,2023-06-28
+Laptop,West,1013.72,-497.08,0.09,Office Supplies,2023-03-11
+Monitor,West,926.84,-460.23,0.36,Furniture,2023-12-02
+Notebook,South,1880.97,104.07,0.43,Technology,2023-06-22
+Notebook,Central,1441.44,407.38,0.23,Technology,2023-10-18
+Monitor,Central,1299.22,-261.14,0.41,Office Supplies,2023-02-01
+Notebook,Central,194.7,-30.36,0.28,Furniture,2023-12-24
+Pen,Central,1817.44,-49.53,0.32,Technology,2023-06-08
+Chair,East,1827.84,-27.03,0.26,Technology,2023-01-03
+Table,Central,1582.4,122.52,0.23,Office Supplies,2023-06-04
+Chair,West,113.36,-30.26,0.12,Technology,2023-11-16
+Table,West,208.83,-52.53,0.15,Furniture,2023-12-08
+Table,East,527.93,-25.71,0.14,Office Supplies,2023-02-06
+Chair,West,349.56,90.87,0.28,Office Supplies,2023-12-02
+Monitor,West,857.79,37.01,0.06,Furniture,2023-06-22
+Table,Central,1852.98,354.14,0.46,Office Supplies,2023-05-02
+Chair,West,996.91,-450.5,0.36,Technology,2024-01-01
+Table,East,125.46,333.32,0.2,Technology,2023-07-31
+Laptop,Central,637.22,343.92,0.08,Furniture,2023-11-27
+Monitor,South,184.73,-215.09,0.44,Technology,2023-02-09
+Pen,Central,168.95,-37.15,0.41,Furniture,2023-08-08
+Table,East,623.87,-61.46,0.36,Furniture,2023-09-07
+Laptop,Central,623.66,-281.49,0.14,Technology,2023-12-04
+Pen,Central,1595.54,-103.2,0.2,Furniture,2023-08-22
+Pen,East,1952.19,-455.61,0.05,Technology,2023-12-25
+Table,Central,805.29,-222.18,0.09,Office Supplies,2023-11-06
+Chair,East,914.89,316.68,0.39,Office Supplies,2023-04-24
+Table,East,1705.1,-215.44,0.36,Furniture,2023-08-30
+Laptop,South,609.46,318.21,0.3,Technology,2023-07-14
+Pen,West,397.13,31.6,0.45,Technology,2023-04-01
+Table,West,1720.87,379.86,0.29,Office Supplies,2023-11-29
+Chair,Central,188.35,74.78,0.23,Office Supplies,2023-11-20
+Table,Central,1277.43,-470.33,0.17,Technology,2023-03-27
+Monitor,South,1167.79,175.42,0.47,Furniture,2023-12-31
+Chair,South,757.25,-455.15,0.04,Office Supplies,2023-02-11
+Laptop,South,698.86,-49.4,0.47,Furniture,2023-11-10
+Pen,East,1566.53,429.43,0.41,Furniture,2023-12-23
+Table,South,264.21,-334.8,0.06,Office Supplies,2023-02-19
+Chair,South,549.89,-110.13,0.28,Furniture,2023-02-08
+Monitor,Central,1491.65,229.86,0.43,Furniture,2023-01-17
+Chair,South,1141.81,382.26,0.29,Technology,2023-01-19
+Notebook,East,343.18,170.94,0.45,Furniture,2023-07-31
+Monitor,East,1776.06,-241.83,0.47,Technology,2023-05-23
+Laptop,Central,847.55,174.61,0.21,Office Supplies,2023-12-04
+Pen,South,1672.95,-203.27,0.19,Office Supplies,2023-10-08
+Laptop,South,1596.65,218.43,0.47,Technology,2023-12-24
+Table,East,1286.41,454.03,0.34,Office Supplies,2023-02-02
+Chair,South,1039.51,221.39,0.06,Furniture,2023-05-08
+Notebook,South,1961.15,362.88,0.02,Furniture,2023-06-06
+Monitor,South,375.43,-497.9,0.28,Furniture,2023-08-23
+Monitor,West,1477.8,217.57,0.47,Office Supplies,2023-06-23
+Chair,Central,463.26,329.59,0.42,Furniture,2023-02-12
+Notebook,West,742.7,-459.44,0.34,Office Supplies,2023-05-11
+Chair,Central,686.53,371.6,0.07,Furniture,2023-05-15
+Table,East,1899.37,-243.31,0.13,Technology,2023-11-24
+Laptop,South,1937.98,165.29,0.44,Office Supplies,2023-09-02
+Laptop,Central,869.12,-316.98,0.4,Furniture,2023-08-13
+Table,East,1342.74,-477.96,0.33,Furniture,2023-02-09
